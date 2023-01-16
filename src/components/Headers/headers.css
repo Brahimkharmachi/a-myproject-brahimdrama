@@ -1,0 +1,35 @@
+header {
+    height: 10vh;
+    line-height: 10vh;
+    background-color:black;
+    color: #fff;
+    position: relative;
+    margin: auto;  
+  }
+  
+  header a {
+    color: beige;
+    text-decoration: none;
+  }
+  header a:hover {
+    color: blue;
+  }
+ 
+
+nav {
+  display: inline-flex;
+}  
+  
+.logoheaders img{
+    width: 450px;
+    margin-top: -190px;
+}
+
+header ul li {
+    align-items: left;
+    margin-top: -130px;
+    padding: 25px;
+    display: inline;
+
+  }
+

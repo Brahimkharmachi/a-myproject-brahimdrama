@@ -1,0 +1,24 @@
+.card-containerkurulus {
+    width: 150px;
+    height: 150px;
+    box-shadow: 0px 0px 15px 0px;
+    transition: 0.3s;
+    margin: 45px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    border-radius: 8px;
+
+}
+
+.card-containerkurulus :hover {
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px 0px;
+}
+
+.image-containerkurulus img{
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+
+
+}
